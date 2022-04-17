@@ -48,3 +48,4 @@ function meuEscopo() {
     resultado.innerHTML += `O valor do seu IMC é ${formula} ${identificar} `
 }
 meuEscopo();
+console.log('vapo');
